@@ -21,6 +21,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+
 ## Bootcamp Laravel
 
 Welcome to the Laravel [Bootcamp](https://bootcamp.laravel.com/)! In this guide we will walk through building a modern Laravel application from scratch. To explore the framework, we'll build a microblogging platform called Chirper.
@@ -35,7 +37,6 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 An approachable, performant and versatile framework for building web user interfaces. 
 [vue documentation](https://vuejs.org)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
